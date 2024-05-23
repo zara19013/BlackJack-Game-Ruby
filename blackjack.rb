@@ -80,6 +80,7 @@ class Blackjack
         puts "like the tie your total #{user_total}, computer wins" 
       end 
     end
+    public
     def play
         puts "blackjack game"
          display_hands
